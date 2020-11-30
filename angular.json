@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "anblog"
+  "defaultProject": "anblog",
+  "cli": {
+    "analytics": "9e43132d-9bdc-484c-9f0d-dbdc1e7157a5"
+  }
 }
